@@ -2,7 +2,7 @@
 Matlab code implements Fourier ptychography reconstruction algorithm from a set of images captured under different illumination angles (e.g. in an LED array microscope), using either sequential or multiplexed coded illumination. The algorithm simultaneously estimates the complex object function (amplitude + phase) withhigh resolution (defined by objective NA+illumination NA) and the pupil function (aberrations). It implements a sequential quasi-Newton’s method with Tikhonov (L2) regularization.
 
 ### Dependency:
-[Nature-order filename sort](https://www.mathworks.com/matlabcentral/fileexchange/47434-natural-order-filename-sort?s_tid=mwa_osa_a)
+1. [Nature-order filename sort](https://www.mathworks.com/matlabcentral/fileexchange/47434-natural-order-filename-sort?s_tid=mwa_osa_a)
 
 ### Paper:
 Please cite as:
