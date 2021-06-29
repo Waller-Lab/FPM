@@ -4,3 +4,7 @@ Matlab code implements Fourier ptychography reconstruction algorithm from a set 
 Please cite as:
 
 L. Tian, X. Li, K. Ramchandran, and L. Waller, “Multiplexed coded illumination for Fourier ptychography with an LED array microscope,” Biomedical Optics Express 5, 2376-2389 (2014).
+
+[Paper Link](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-5-7-2376&id=294149)
+
+Sample data can be found [here](http://www.laurawaller.com/opensource/).
